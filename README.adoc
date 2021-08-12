@@ -18,7 +18,7 @@ We’ve seen most {abbr-GPL} and {abbr-GNU} and privacy-oriented projects move t
 
 == What can I as a user do?
 
-* Use an alternative Git code forge.
+* Use an alternative Git code forge
 +
 --
    Git-supporting Code Forge Alternatives::
@@ -29,5 +29,5 @@ We’ve seen most {abbr-GPL} and {abbr-GNU} and privacy-oriented projects move t
    * https://codeberg.org/[Codeberg]
    * https://gitlab.com/[GitLab]
 --   
-* Ask your code communities to switch to an alternative or officially support a mirror. If that cannot be done, ask your code communities to at least allow additions to the community from these alternative.
+* Ask your code communities and workplace to switch to an alternative or officially support a mirror. If that cannot be done, ask your code communities and workplace to at least allow additions to the community from these alternative.
 * Oppose all attempts to standardize, endorse, or weigh anything in GitHub’s specific favor (like shorthands for packages)
