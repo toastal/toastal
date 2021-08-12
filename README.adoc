@@ -1,5 +1,5 @@
-toastal does **__not__** support GitHub as a platform
-=====================================================
+⚠️ toastal does **__not__** support GitHub as a platform
+========================================================
 
 :abbr-EEE: pass:[<abbr title="embrace, extend, extinguish">EEE</abbr>]
 :abbr-GNU: pass:[<abbr title="GNU’s not Unix!">GNU</abbr>]
