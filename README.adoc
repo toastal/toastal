@@ -19,6 +19,7 @@ We’ve seen most {abbr-GPL} and {abbr-GNU} and privacy-oriented projects move t
 == What can I as a user do?
 
 * Use an alternative Git code forge.
+   +
    Git-supporting Code Forge Alternatives::
    * https://sr.ht/[Sourcehut]
    * https://savannah.gnu.org/[GNU Savannah]
