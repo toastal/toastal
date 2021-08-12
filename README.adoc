@@ -20,6 +20,7 @@ We’ve seen most {abbr-GPL} and {abbr-GNU} and privacy-oriented projects move t
 
 * Use an alternative Git code forge.
 +
+--
    Git-supporting Code Forge Alternatives::
    * https://sr.ht/[Sourcehut]
    * https://savannah.gnu.org/[GNU Savannah]
@@ -27,5 +28,6 @@ We’ve seen most {abbr-GPL} and {abbr-GNU} and privacy-oriented projects move t
    * https://git.zx2c4.com/cgit/about/[cgit]
    * https://codeberg.org/[Codeberg]
    * https://gitlab.com/[GitLab]
+--   
 * Ask your code communities to switch to an alternative or officially support a mirror. If that cannot be done, ask your code communities to at least allow additions to the community from these alternative.
 * Oppose all attempts to standardize, endores, or weigh anything in GitHub’s specific favor (like shorthands for packages)
