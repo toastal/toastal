@@ -1,7 +1,6 @@
 toastal does _not_ support GitHub as a platform
 ===============================================
 
-:source-highlighter: pygments
 :abbr-EEE: pass:[<abbr title="embrace, extend, extinguish">EEE</abbr>]
 :abbr-GNU: pass:[<abbr title="GNU’s not Unix!">GNU</abbr>]
 :abbr-GPL: pass:[<abbr title="GNU Public License">GPL</abbr>]
