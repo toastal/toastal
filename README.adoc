@@ -30,3 +30,7 @@ We’ve seen most {abbr-GPL} and {abbr-GNU} and privacy-oriented projects move t
 --   
 * Ask your code communities and workplace to switch to an alternative code forge or officially support a mirror on an alternative. If that cannot be done, ask your code communities and workplace to at least allow additions to its larger ecosystem from these alternatives.
 * Oppose all attempts to standardize, endorse, or weigh anything in GitHub’s specific favor (like shorthands for packages)
+
+== Then why am I even here?
+
+I support open source code and a lot of it is regrettable here. I care more about these projects than my person stance, but I really wish they were elsewhere.
