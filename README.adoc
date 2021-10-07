@@ -34,3 +34,5 @@ We’ve seen most {abbr-GPL} and {abbr-GNU} and privacy-oriented projects move t
 == Then why am I even here?
 
 I support open source code and a lot of it is regrettable here. I care more about these projects than my person stance, but I really wish they were elsewhere.
+
+Also can we laugh at this file being labeled `README.md` in the UI despite this being an AsciiDoc file called `README.adoc`? But on the otherhand, let’s get mad that GitHub strips out `<abbr>` tags even though they would help accessibility.
