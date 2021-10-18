@@ -24,8 +24,8 @@ We’ve seen most {abbr-GPL}, {abbr-GNU}, and privacy-oriented projects move to 
    * https://sr.ht/[Sourcehut]
    * https://savannah.gnu.org/[GNU Savannah]
    * https://gitea.io/[Gitea]
-   * https://git.zx2c4.com/cgit/about/[cgit]
    * https://codeberg.org/[Codeberg]
+   * https://git.zx2c4.com/cgit/about/[cgit]
    * https://gitlab.com/[GitLab]
 --   
 * Ask your code communities and workplace to switch to an alternative code forge or officially support a mirror on an alternative. If that cannot be done, ask your code communities and workplace to at least allow additions to its larger ecosystem from these alternatives.
