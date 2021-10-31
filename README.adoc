@@ -33,6 +33,6 @@ We’ve seen most {abbr-GPL}, {abbr-GNU}, and privacy-oriented projects move to 
 
 == Then why am I even here?
 
-I support open source code and a lot of it is regrettable here. I care more about these projects than my personal stance, but I really wish they were elsewhere. You can’t have these migration conversations without contributing to projects in good faith.
+I support open source code and a lot of it is unfortunately here. I care more about these projects than my personal stance, but I really wish they were elsewhere. You can’t have these migration conversations without contributing to projects in good faith.
 
 Also let’s get mad that GitHub strips out `<abbr>` tags from rendered documents such as this even though these tags would help accessibility.
