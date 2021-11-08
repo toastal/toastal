@@ -1,6 +1,5 @@
 toastal does **__not__** support GitHub as a platform
 =====================================================
-
 :abbr-EEE: pass:[<abbr title="embrace, extend, extinguish">EEE</abbr>]
 :abbr-GNU: pass:[<abbr title="GNU’s not Unix!">GNU</abbr>]
 :abbr-GPL: pass:[<abbr title="GNU Public License">GPL</abbr>]
@@ -21,12 +20,12 @@ We’ve seen most {abbr-GPL}, {abbr-GNU}, and privacy-oriented projects move to 
 +
 --
    Git-supporting Code Forge Alternatives::
-   * https://sr.ht/[Sourcehut]
-   * https://savannah.gnu.org/[GNU Savannah]
-   * https://gitea.io/[Gitea]
-   * https://codeberg.org/[Codeberg]
-   * https://git.zx2c4.com/cgit/about/[cgit]
-   * https://gitlab.com/[GitLab]
+   * https://sr.ht/[Sourcehut] - self-hostable, service where basics are free (including mailing lists), but CI is paid however it is not VC-funded nor does it have investors or shareholders to appease
+   * https://savannah.gnu.org/[{abbr-GNU} Savannah] - for FLOSS software where your projects need to be approved as such
+   * https://gitea.io/[Gitea] - self-hosted, FLOSS GitHub clone essentially
+   * https://codeberg.org/[Codeberg] - Gitea hosted by a German non-profit
+   * https://git.zx2c4.com/cgit/about/[cgit] - tiny, self-hosted {abbr-GPL} Git UI
+   * https://gitlab.com/[GitLab] - free, Ruby-based forge support full build pipeline and self-hostable (however are VC-funded and have investors to appease, so we’ll see about the future)
 --   
 * Ask your code communities and workplace to switch to an alternative code forge or officially support a mirror on an alternative. If that cannot be done, ask your code communities and workplace to at least allow additions to its larger ecosystem from these alternatives (plugins, packages, etc.).
 * Oppose all attempts to standardize, endorse, or weigh anything in GitHub’s specific favor (like shorthands for packages)
