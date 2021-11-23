@@ -1,6 +1,7 @@
 toastal does **__not__** support GitHub as a platform
 =====================================================
 :abbr-EEE: pass:[<abbr title="embrace, extend, extinguish">EEE</abbr>]
+:abbr-FLOSS: pass:[<abbr title="free, libre, open-source software">FLOSS</abbr>]
 :abbr-GNU: pass:[<abbr title="GNU’s not Unix!">GNU</abbr>]
 :abbr-GPL: pass:[<abbr title="GNU Public License">GPL</abbr>]
 :abbr-NPM: pass:[<abbr title="Node Package Manager">NPM</abbr>]
@@ -21,8 +22,8 @@ We’ve seen most {abbr-GPL}, {abbr-GNU}, and privacy-oriented projects move to 
 --
    Git-supporting Code Forge Alternatives::
    * https://sr.ht/[Sourcehut] - self-hostable service where using their hosted basics are free (including mailing lists), but CI is paid, however it is not VC-funded nor does it have investors or shareholders to appease
-   * https://savannah.gnu.org/[{abbr-GNU} Savannah] - for FLOSS software where your projects need to be approved as such
-   * https://gitea.io/[Gitea] - self-hosted, FLOSS GitHub clone essentially
+   * https://savannah.gnu.org/[{abbr-GNU} Savannah] - for {abbr-FLOSS} software where your projects need to be approved as such
+   * https://gitea.io/[Gitea] - self-hosted, {abbr-FLOSS} GitHub clone essentially
    * https://codeberg.org/[Codeberg] - Gitea hosted by a German non-profit
    * https://git.zx2c4.com/cgit/about/[cgit] - tiny, self-hosted {abbr-GPL} Git UI
    * https://gitlab.com/[GitLab] - free, Ruby-based forge support full build pipeline and self-hostable (however are VC-funded and have investors to appease, so we’ll see about the future)
@@ -32,7 +33,7 @@ We’ve seen most {abbr-GPL}, {abbr-GNU}, and privacy-oriented projects move to 
 
 == Then why are you even here?
 
-I support open source code and a lot of it is unfortunately here. I care more about these projects than my personal stance, but I really wish they were elsewhere. You can’t have these migration conversations without contributing to projects in good faith.
+I support open source projects and a lot of it is here unfortunately. I care more about the spirit of open source projects than my personal stance on where the code is hosted, but I really wish they were elsewhere. You can’t have any migration conversations without contributing to projects in good faith. To a lot of people GitHub is seen as a default.
 
 Also let’s get mad that GitHub strips out `<abbr>` tags from rendered documents such as this even though these tags would help accessibility.
 
