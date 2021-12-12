@@ -37,7 +37,7 @@ I support open source projects and a lot of it is here unfortunately. I care mor
 
 Also let’s get mad that GitHub strips out `<abbr>` tags from rendered documents such as this even though these tags would help accessibility.
 
-== Then where can I find your code now?
+== Where can I find your code now?
 
 * Sourcehut (primary): https://git.sr.ht/~toastal/
 * GitLab: https://gitlab.com/toastal
