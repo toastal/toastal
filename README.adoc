@@ -1,6 +1,6 @@
 toastal does **__not__** support GitHub as a platform
 =====================================================
-:abbr-CI: pass:[<abbr title="continous delivery">CD</abbr>]
+:abbr-CD: pass:[<abbr title="continous delivery">CD</abbr>]
 :abbr-CI: pass:[<abbr title="continous integration">CI</abbr>]
 :abbr-EEE: pass:[<abbr title="embrace, extend, extinguish">EEE</abbr>]
 :abbr-FLOSS: pass:[<abbr title="free, libre, open-source software">FLOSS</abbr>]
