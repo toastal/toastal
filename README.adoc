@@ -30,7 +30,7 @@ We’ve seen most {abbr-GPL}, {abbr-GNU}, and privacy-oriented projects move to 
    * https://savannah.gnu.org/[{abbr-GNU} Savannah] - for {abbr-FLOSS} software where your projects need to be approved as such
    * https://gitea.io/[Gitea]:: self-hosted, {abbr-FLOSS} GitHub clone essentially
    * https://codeberg.org/[Codeberg]:: Gitea hosted by a German non-profit
-   * https://git.zx2c4.com/cgit/about/[cgit] - tiny, self-hosted {abbr-GPL} Git UI
+   * https://git.zx2c4.com/cgit/about/[cgit]:: tiny, self-hosted {abbr-GPL} Git UI
    * https://gitlab.com/[GitLab]:: free, Ruby-based forge support full build pipeline and self-hostable (however are VC-funded and have investors to appease, so we’ll see about the future)
 --   
 * Ask your code communities and workplace to switch to an alternative code forge or officially support a mirror on an alternative. If that cannot be done, ask your code communities and workplace to at least allow additions to its larger ecosystem from these alternatives (plugins, packages, etc.).
@@ -44,6 +44,6 @@ Also let’s get mad that GitHub strips out `<abbr>` tags from rendered document
 
 == Where can I find your code now?
 
-* Sourcehut (primary):: https://git.sr.ht/~toastal/
-* GitLab:: https://gitlab.com/toastal
-* Codeberg:: https://codeberg.org/toastal/
+Sourcehut (primary):: https://git.sr.ht/~toastal/
+GitLab:: https://gitlab.com/toastal
+Codeberg:: https://codeberg.org/toastal/
