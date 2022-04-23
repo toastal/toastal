@@ -32,7 +32,7 @@ We’ve seen most {abbr-GPL}, {abbr-GNU}, and privacy-oriented projects move to 
 +
 --
    Git-supporting Code Forge Alternatives::
-   * https://sr.ht/[Sourcehut]:: self-hostable AGPL service where using their hosted basics are free (including mailing lists), but CI is paid, however it is not VC-funded nor does it have investors or shareholders to appease
+   * https://sr.ht/[Sourcehut]:: self-hostable AGPL service where using their hosted basics are free (including mailing lists and an IRC bouncer), but CI is paid, however it is not VC-funded nor does it have investors or shareholders to appease
    * https://savannah.gnu.org/[{abbr-GNU} Savannah]:: for {abbr-FLOSS} software where your projects need to be approved as such
    * https://gitea.io/[Gitea]:: self-hosted, {abbr-FLOSS} GitHub clone essentially
    * https://codeberg.org/[Codeberg]:: Gitea hosted by a German non-profit
