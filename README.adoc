@@ -37,7 +37,6 @@ We’ve seen most {abbr-GPL}, {abbr-GNU}, and privacy-oriented projects move to 
    * https://gitea.io/[Gitea]:: self-hosted, {abbr-FLOSS} GitHub clone essentially
    * https://codeberg.org/[Codeberg]:: Gitea hosted by a German non-profit
    * https://git.zx2c4.com/cgit/about/[cgit]:: tiny, self-hosted {abbr-GPL} Git UI
-   * https://www.gerritcodereview.com/[Gerrit]:: I do not know much about it
    * https://gitlab.com/[GitLab]:: free, open-core, Ruby-based forge support full build pipeline and self-hostable (however are VC-funded and have investors to appease, so we’ll see about the future)
 --   
 * Ask your code communities and workplace to switch to an alternative code forge or officially support a mirror on an alternative. If that cannot be done, ask your code communities and workplace to at least allow additions to its larger ecosystem from these alternatives (plugins, packages, etc.).
