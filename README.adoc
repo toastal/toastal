@@ -43,7 +43,7 @@ We’ve seen most {abbr-GPL}, {abbr-GNU}, and privacy-oriented projects move to 
 --
 * Ask your code communities and workplace to switch to an alternative code forge or officially support a mirror on an alternative. If that cannot be done, ask your code communities and workplace to at least allow additions to its larger ecosystem from these alternatives (plugins, packages, etc.).
 * Oppose all attempts to standardize, endorse, or weigh anything in GitHub’s specific favor (like shorthands for packages)
-* Make sure educational institutions aren’t requiring students to sign up from proprietary accounts. It’s bad enough that the next generation continues to be trained in Adobe Suite and Microsoft Office, but Git has fundamentals to learn that don’t require a proprietary service and universites in particular have the resources to self-host.
+* Make sure educational institutions aren’t requiring students to sign up from proprietary accounts. It’s bad enough that the next generation continues to be trained in Adobe Suite and Microsoft Office instead of {abbr-FLOSS} options, and is in the same boat Git where fundamentals can be learned that don’t require a proprietary service (and universites in particular have the resources to self-host at least cgit).
 
 == Then why are you even here?
 
