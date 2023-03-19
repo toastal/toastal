@@ -10,6 +10,7 @@ ____
 :abbr-CI: pass:[<abbr title="continous integration">CI</abbr>]
 :abbr-EEE: pass:[<abbr title="embrace, extend, extinguish">EEE</abbr>]
 :abbr-FLOSS: pass:[<abbr title="free, libre, open-source software">FLOSS</abbr>]
+:abbr-FOMO: pass:[<abbr title="fear of missing out">FLOSS</abbr>]
 :abbr-FOSS: pass:[<abbr title="free, open-source software">FLOSS</abbr>]
 :abbr-GNU: pass:[<abbr title="GNU’s not Unix!">GNU</abbr>]
 :abbr-GPL: pass:[<abbr title="GNU Public License">GPL</abbr>]
@@ -23,7 +24,7 @@ ____
 * GitHub is closed source. While Git is open and many of the projects on GitHub are, GitHub is not. If you have a problem, you can’t just send up a fix nor can you fork and self-host the project. Putting your business’s data on it assures no protections.
 * The API of GitHub is https://github.com/MichaelMure/git-bug/issues/749#issuecomment-1072991272[not very stable]. So while you can tool your way around simple things like email, it is not as simple with GitHub.
 * GitHub’s Copilot should not be supported and it’s controversially either spitting out code that violates {abbr-GPL} or as one lawyer said all outputs are derivative and *must* be in the public domain (so your code may have future legal issues), it copies bugs, and isn’t there to help more than you help train it. +++<del>As it is meant to be paid in the future, right now, <em>you</em> the user are training it and not getting paid for your service despite the stated future being that it will be</del>+++ It is now a product sold back to you. While lessening the barrier to entry for programming could be good, training on all of our open code behind a closed platform, closed data, and captital-hungry entity to sell isn’t in the spirit of open source or free software.
-* The $500k donation PR stunt is an attempt to get more people to buy into their payment platform (which will take an additional 10% cut beyond an other transaction fees). Naturally this was paid out only to folks that signed up for their payment service in an attempt to bring others in and further monopolize the source code platform.
+* The $500k donation PR stunt is an attempt to get more people to buy into their payment platform (which will take an additional 10% cut beyond an other transaction fees). Naturally this was paid out only to folks that signed up for their payment service in an attempt to bring others in on :abbr-fomo: and further monopolize the source code platform.
 * GitHub has a terrible landing page experience. Does your {abbr-CI} build status badges in your README **really** help me understand the how/what/why of your project, or are you bloating the README because GitHub doesn’t give you more flexible ways to mark up your projects? GitLab has badges as a project setting. Sourcehut lets you upload arbiritrary (sanitized) HTML to the landing page. As an {abbr-HN} user eloquently phrased it, the README has become a RENDERME and thusly GitHub has ruined the README. A lot of the recent _good_ ideas coming into GitHub have been borrowed from its competitors (Mermaid docs, integrated {abbr-CI}/{abbr-CD}). Now they want https://github.com/orgs/github-community/discussions/16925[to break Markdown standards further] despite existing proposals to CommonMark with more GitHub-flavored nonsense because they are a bully and no longer feel they need to cooperate.
 
 We’ve seen most {abbr-GPL}, {abbr-GNU}, and privacy-oriented projects move to alternatives because they want to respect their users and the spirit of open source. I hope to see your projects move to one of the alternatives soon too.
@@ -39,7 +40,7 @@ We’ve seen most {abbr-GPL}, {abbr-GNU}, and privacy-oriented projects move to 
 	* https://forgejo.org/[Forgejo]:: self-hosted, {abbr-FLOSS} GitHub clone essentially
 	* https://codeberg.org/[Codeberg]:: Gitea hosted by a German non-profit
 	* https://git.zx2c4.com/cgit/about/[cgit]:: tiny, self-hosted {abbr-GPL} Git UI
-	* https://gitlab.com/[GitLab]:: free, open-core, Ruby-based forge support full build pipeline and self-hostable (however are VC-funded and have investors to appease, so we’ll see about the future)
+	* https://gitlab.com/[GitLab]:: free, open-core, Ruby-based forge support full build pipeline and self-hostable (however are VC-funded and is publicly traded so they have investors to appease, so we’ll see about the future)
 --
 * Ask your code communities and workplace to switch to an alternative code forge or officially support a mirror on an alternative. If that cannot be done, ask your code communities and workplace to at least allow additions to its larger ecosystem from these alternatives (plugins, packages, etc.).
 * Oppose all attempts to standardize, endorse, or weigh anything in GitHub’s specific favor (like shorthands for packages)
