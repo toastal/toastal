@@ -30,7 +30,7 @@ ____
 
 We’ve seen most {abbr-GPL}, {abbr-GNU}, and privacy-oriented projects move to alternatives because they want to respect their users and the spirit of open source. I hope to see your projects move to one of the alternatives soon too.
 
-== What can I as a user do?
+== What can I as a user do today?
 
 * Use an alternative Git code forge
 +
