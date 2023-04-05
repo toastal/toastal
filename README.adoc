@@ -10,7 +10,7 @@ ____
 :abbr-CI: pass:[<abbr title="continous integration">CI</abbr>]
 :abbr-EEE: pass:[<abbr title="embrace, extend, extinguish">EEE</abbr>]
 :abbr-FLOSS: pass:[<abbr title="free, libre, open-source software">FLOSS</abbr>]
-:abbr-FOMO: pass:[<abbr title="fear of missing out">FLOSS</abbr>]
+:abbr-FOMO: pass:[<abbr title="fear of missing out">FOMO</abbr>]
 :abbr-FOSS: pass:[<abbr title="free, open-source software">FLOSS</abbr>]
 :abbr-GNU: pass:[<abbr title="GNU’s not Unix!">GNU</abbr>]
 :abbr-GPL: pass:[<abbr title="GNU Public License">GPL</abbr>]
