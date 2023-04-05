@@ -49,7 +49,7 @@ We’ve seen most {abbr-GPL}, {abbr-GNU}, and privacy-oriented projects move to 
 
 == Then why are you even here?
 
-I support open source projects and a lot of it is here unfortunately. I care more about the spirit of open source projects than my personal stance on where the code is hosted, but we really need to get more code off this platform. You can’t have any migration conversations without contributing to projects in good faith. To a lot of people GitHub is seen as a default and alternatives were never considered. This is most scary when seeing schools indoctrinate students into the platform the way many of us were only taught proprietary platforms like Microsoft Office and Adobe Suite at some point in our education.
+I support open source projects and a lot of it is here unfortunately. I care more about the spirit of open source projects than my personal stance on where the code is hosted, but we really need to get more code off this platform. You can’t have any migration conversations without contributing to projects in good faith. To a lot of people GitHub is seen as a default and alternatives were never considered.
 
 Also let’s get mad that GitHub strips out `<abbr>` tags from rendered documents such as this even though these tags would help accessibility.
 
