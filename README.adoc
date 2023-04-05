@@ -36,6 +36,7 @@ We’ve seen most {abbr-GPL}, {abbr-GNU}, and privacy-oriented projects move to 
 +
 --
 	Git-supporting Code Forge Alternatives::
+   
 	* https://sr.ht/[SourceHut]:: self-hostable AGPL service where using their hosted basics are free (including mailing lists and an IRC bouncer), but CI is paid, however it is not VC-funded nor does it have investors or shareholders to appease
 	* https://savannah.gnu.org/[{abbr-GNU} Savannah]:: for {abbr-FLOSS} software where your projects need to be approved as such
 	* https://forgejo.org/[Forgejo]:: self-hosted, {abbr-FLOSS} GitHub clone essentially
