@@ -16,7 +16,7 @@ ____
 :abbr-GPL: pass:[<abbr title="GNU Public License">GPL</abbr>]
 :abbr-HN: pass:[<abbr title="Hacker News">HN</abbr>]
 :abbr-UI: pass:[<abbr title="user interface">UI</abbr>]
-:abbr-VCS: pass:[<abbr title="venture capital">VC</abbr>]
+:abbr-VC: pass:[<abbr title="venture capital">VC</abbr>]
 :abbr-VCS: pass:[<abbr title="version control system">VCS</abbr>]
 :abbr-WSL: pass:[<abbr title="Windows Subsystem Linux">WSL</abbr>]
 
@@ -45,7 +45,7 @@ We’ve seen most {abbr-GPL}, {abbr-GNU}, and privacy-oriented projects move to 
 	https://git.zx2c4.com/cgit/about/[cgit]:: tiny, self-hosted {abbr-GPL} Git {abbr-UI}
 	https://gitlab.com/[GitLab]:: free, open-core, Ruby-based forge support with full build pipeline and self-hostable community edition (however are {abbr-VC}-funded and is publicly traded so they have investors to appease, so we’ll see about the future)
 --
-* Try an alternative to Git for VCS::
+* Try an alternative to Git for {abbr-VCS}::
    http://darcs.net[darcs]:: “Darcs is a free and open source, cross-platform version control system, […] with a very different approach: focus on changes rather than snapshots. Darcs offers a freer way of working, and a simpler user interface.”
 * Ask your code communities and workplace to switch to an alternative code forge or officially support a mirror on an alternative. If that cannot be done, ask your code communities and workplace to at least allow additions to its larger ecosystem from these alternatives (plugins, packages, etc.).
 * Oppose all attempts to standardize, endorse, or weigh anything in GitHub’s specific favor (like shorthands for packages)
