@@ -41,7 +41,7 @@ We’ve seen most {abbr-GPL}, {abbr-GNU}, and privacy-oriented projects move to 
    https://sr.ht/[SourceHut]:: self-hostable AGPL service where using their hosted basics are free (including mailing lists and an IRC bouncer), but {abbr-CI} is paid, however it is not VC-funded nor does it have investors or shareholders to appease
 	https://savannah.gnu.org/[{abbr-GNU} Savannah]:: for {abbr-FLOSS} software where your projects need to be approved as such
 	https://forgejo.org/[Forgejo]:: self-hosted, {abbr-FLOSS} GitHub clone essentially
-	https://codeberg.org/[Codeberg]:: Gitea hosted by a German non-profit
+	https://codeberg.org/[Codeberg]:: Forgejo hosted by a German non-profit
 	https://git.zx2c4.com/cgit/about/[cgit]:: tiny, self-hosted {abbr-GPL} Git {abbr-UI}
 	https://gitlab.com/[GitLab]:: free, open-core, Ruby-based forge support with full build pipeline and self-hostable community edition (however are {abbr-VC}-funded and is publicly traded so they have investors to appease, so we’ll see about the future)
 --
