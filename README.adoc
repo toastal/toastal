@@ -45,8 +45,12 @@ We’ve seen most {abbr-GPL}, {abbr-GNU}, and privacy-oriented projects move to 
 	https://git.zx2c4.com/cgit/about/[cgit]:: tiny, self-hosted {abbr-GPL} Git {abbr-UI}
 	https://gitlab.com/[GitLab]:: free, open-core, Ruby-based forge support with full build pipeline and self-hostable community edition (however are {abbr-VC}-funded and is publicly traded so they have investors to appease, so we’ll see about the future)
 --
-* Try an alternative to Git for {abbr-VCS}::
+* Try an alternative to Git 
++
+--
+  Some other {abbr-VCS} options::
    http://darcs.net[darcs]:: “Darcs is a free and open source, cross-platform version control system, […] with a very different approach: focus on changes rather than snapshots. Darcs offers a freer way of working, and a simpler user interface.”
+--
 * Ask your code communities and workplace to switch to an alternative code forge or officially support a mirror on an alternative. If that cannot be done, ask your code communities and workplace to at least allow additions to its larger ecosystem from these alternatives (plugins, packages, etc.).
 * Oppose all attempts to standardize, endorse, or weigh anything in GitHub’s specific favor (like shorthands for packages)
 * Make sure educational institutions aren’t requiring students to sign up from proprietary accounts. It’s bad enough that the next generation continues to be trained in Adobe Suite and Microsoft Office instead of {abbr-FLOSS} options, but now Git and other {abbr-VCS} are in the same boat where fundamentals can be learned that don’t require a proprietary service (and universites in particular have the resources to self-host at least cgit).
