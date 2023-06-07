@@ -57,6 +57,6 @@ Also let’s get mad that GitHub strips out `<abbr>` tags from rendered document
 
 == Where can I find your code now?
 
-SourceHut (primary):: https://git.sr.ht/~toastal/
+SourceHut (primary):: https://sr.ht/~toastal/
 GitLab:: https://gitlab.com/toastal
 Codeberg:: https://codeberg.org/toastal/
