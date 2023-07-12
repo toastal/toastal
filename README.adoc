@@ -65,5 +65,5 @@ Also let’s glare at GitHub for stripping out `<abbr>` tags from rendered docum
 
 SourceHut (primary):: https://sr.ht/~toastal/
 darcs hub:: https://hub.darcs.net/toastal/
-GitLab:: https://gitlab.com/toastal
 Codeberg:: https://codeberg.org/toastal/
+GitLab:: https://gitlab.com/toastal
