@@ -1,4 +1,4 @@
-toastal does **__not__** back GitHub as a code forge platform
+toastal does **__not__** support GitHub as a code forge platform
 =============================================================
 
 [quote,Matt Lee,https://www.linuxjournal.com/content/opinion-github-vs-gitlab]
