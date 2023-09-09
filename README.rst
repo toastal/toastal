@@ -23,18 +23,18 @@ What can I as a user do today?
 * Use an alternative Git code forge
 
   Git-supporting Code Forge Alternatives
-   `SourceHut <https://sr.ht/>`_
-		self-hostable AGPL service where using their hosted basics are free (including mailing lists & an :ac:`IRC` bouncer), but :ac:`CI` is paid, however it is not :ac:`VC`\-funded nor does it have investors or shareholders to appease
-	`GNU Savannah <https://savannah.gnu.org/>`_
-		for :ac:`FLOSS` software where your projects need to be approved as such
-	`Forgejo <https://forgejo.org/>`_
-		self-hosted, :ac:`FLOSS` GitHub clone essentially
-	`Codeberg <https://codeberg.org/>`_
-		Forgejo hosted by a German non-profit
-	`cgit <https://git.zx2c4.com/cgit/about/>`_
-		tiny, self-hosted :ac:`GPL` Git :ac:`UI`
-	`GitLab <https://gitlab.com/>`_
-		free, open-core, Ruby-based forge support with full build pipeline & self-hostable community edition (however are :ac:`VC`\-funded & is publicly traded so they have investors to appease, so we’ll see about the future)
+  	`SourceHut <https://sr.ht/>`_
+  		self-hostable AGPL service where using their hosted basics are free (including mailing lists & an :ac:`IRC` bouncer), but :ac:`CI` is paid, however it is not :ac:`VC`\-funded nor does it have investors or shareholders to appease
+  	`GNU Savannah <https://savannah.gnu.org/>`_
+  		for :ac:`FLOSS` software where your projects need to be approved as such
+ 	`Forgejo <https://forgejo.org/>`_
+  		self-hosted, :ac:`FLOSS` GitHub clone essentially
+  	`Codeberg <https://codeberg.org/>`_
+  		Forgejo hosted by a German non-profit
+ 	`cgit <https://git.zx2c4.com/cgit/about/>`_
+  		tiny, self-hosted :ac:`GPL` Git :ac:`UI`
+ 	`GitLab <https://gitlab.com/>`_
+  		free, open-core, Ruby-based forge support with full build pipeline & self-hostable community edition (however are :ac:`VC`\-funded & is publicly traded so they have investors to appease, so we’ll see about the future)
 * Try an alternative to Git
 	Some other :ac:`VCS` options
 		`darcs <http://darcs.net>`_
