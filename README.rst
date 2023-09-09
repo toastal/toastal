@@ -37,7 +37,7 @@ What can I as a user do today?
 		free, open-core, Ruby-based forge support with full build pipeline & self-hostable community edition (however are :ac:`VC`\-funded & is publicly traded so they have investors to appease, so we’ll see about the future)
 * Try an alternative to Git
 	Some other :ac:`VCS` options
-		`darcs <http://darcs.net>`_:
+		`darcs <http://darcs.net>`_
 			“Darcs is a free and open source, cross-platform version control system, […] with a very different approach: focus on changes rather than snapshots. Darcs offers a freer way of working, and a simpler user interface.”
 * Ask your code communities & workplace to switch to an alternative code forge or officially back a mirror on an alternative. If that cannot be done, ask your code communities & workplace to at least allow additions to its larger ecosystem from these alternatives (plugins, packages, etc.) as well as posting a public mailing address to email code patches.
 * Oppose all attempts to standardize, endorse, or weigh anything in GitHub’s specific favor (like shorthands for packages)
