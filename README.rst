@@ -3,6 +3,7 @@ toastal does **not** support GitHub as a code forge platform
 
 > Choosing proprietary tools and services for your free software project ultimately sends a message to downstream developers and users of your project that freedom of all users—developers included—is not a priority.
 >
+>
 > -- Matt Lee,https://www.linuxjournal.com/content/opinion-github-vs-gitlab
 
 * Git should be decentralized, not requiring a specific platform. While there are some enhancements to the process, there should not be a barrier beyond email if a user does not wish to share data with GitHub (alternatively, decentralized authentication). Due to this, many projects are stuck on GitHub through vendor lock-in. As a user, I *must* fork your project on GitHub to submit a merge request & I *must* have an account to raise or comment on issues. Worse is some communities, like Elm & Nix have tied their user identity in the community to this closed system.
