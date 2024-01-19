@@ -1,5 +1,5 @@
-toastal does **not** support GitHub as a code forge platform
-============================================================
+toastal does **not** support Microsoft GitHub as a code forge platform
+======================================================================
 
    Choosing proprietary tools and services for your free software project ultimately sends a message to downstream developers and users of your project that freedom of all users—developers included—is not a priority.
    
