@@ -41,7 +41,7 @@ What can I as a user do today?
      `darcs <http://darcs.net>`_
         “Darcs is a free and open source, cross-platform version control system, […] with a very different approach: focus on changes rather than snapshots. Darcs offers a freer way of working, and a simpler user interface.” Ever thought it was weird that the order of patches matters in Git when the output is the same?
 • Ask your code communities & workplace to switch to an alternative code forge or officially back a mirror on an alternative. If that cannot be done, ask your code communities & workplace to at least allow additions to its larger ecosystem from these alternatives (plugins, packages, etc.) as well as posting a public mailing address to email code patches.
-• Oppose all attempts to standardize, endorse, or weigh anything in GitHub’s specific favor (like shorthands for packages)
+• Oppose all attempts to standardize, endorse, or weigh anything in MS GitHub’s specific favor (like shorthands for packages)
 • Make sure educational institutions aren’t requiring students to sign up for proprietary accounts. It’s bad enough that the next generation continues to be trained in Adobe Suite & Microsoft Office instead of :ac:`FLOSS` / ethical options, but now Git & other :ac:`VCS` are in the same boat where fundamentals can be learned that don’t require a proprietary service (and universites in particular have the resources to self-host at least cgit). If you are doing a workshop, bootcamp, or other smaller beginner-related activity, this rule should still apply. (German school are `looking into it <https://codeberg.org/forgejo/sustainability/issues/28>`_!)
 
 Then why are you even here?
@@ -50,15 +50,15 @@ Then why are you even here?
 I back free software & similar ethos where a lot of its projects being here without much thought.
 I care more about that ethos than my self-held stance on where the code is hosted, but we need to get more code off this platform.
 You can’t have any migration conversations without contributing to projects in good faith.
-To a lot of folks GitHub is seen as a default & alternatives were never considered.
+To a lot of folks  MSGitHub is seen as a default & alternatives were never considered.
 
-Also let’s glare at GitHub for stripping out ``<abbr>`` tags from rendered documents such as this even though these tags would help accessibility.
+I’m also glaring at MS GitHub for stripping out ``<abbr>`` tags from rendered documents such as this even though these tags would help accessibility.
 
 Where can I find your code now?
 -------------------------------
 
 SourceHut (primary)
-	https://sr.ht/~toastal/
+   https://sr.ht/~toastal/
 darcs hub
 	https://hub.darcs.net/toastal/
 Codeberg
