@@ -5,8 +5,8 @@ toastal does **not** support Microsoft GitHub as a code forge platform
    
    -- Matt Lee, https://www.linuxjournal.com/content/opinion-github-vs-gitlab
 
-• Git should be decentralized, not requiring a specific platform. While there are some enhancements to the process, there should not be a barrier beyond email if a user does not wish to share data with GitHub (alternatively, decentralized authentication). Due to this, many projects are stuck on GitHub through vendor lock-in. As a user, I *must* fork your project on GitHub to submit a merge request & I *must* have an account to raise or comment on issues. Worse is some communities, like Elm & Nix have tied their user identity in the community to this closed system.
-• GitHub is trying to make code unnecessarily ‘social’ which doesn’t need to exist. We don’t need targeted advertising for other projects or anxiety about how colorful status progress bars are. Plug: I have created a `uBlock Origin list <https://git.sr.ht/~toastal/github-less-social>`_ to help declutter your page.
+• Git should be decentralized, not requiring a specific platform. While there are some enhancements to the process, there should not be a barrier beyond email if a user does not wish to share data with GitHub (alternatively, decentralized authentication). Due to this, many projects are stuck on GitHub thru vendor lock-in. As a user, I *must* fork your project on GitHub to submit a merge request & I *must* have an account to raise or comment on issues. Worse is some communities, like Elm & Nix have tied their user identity in the community to this closed system.
+• GitHub is trying to make code unnecessarily ‘social’ which doesn’t need to exist. We don’t need targeted advertising for other projects or anxiety about how colorful status progress bars are. Plug: I have created a `uBlock Origin list <https://git.sr.ht/~toastal/github-less-social>`_ to help declutter your MS GitHub experience while forced to be here.
 • GitHub is owned by Microsoft—the same company that used `embrace, extend, extinguish (EEE) <https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish>`_ in the past to ruin software as a whole. Microsoft is trying to further monopolize with Azure, Codespaces, Visual Studio (regular & Code), npm, Sponsors, & trying to steal mindshare from free software with Windows Subsystem Linux (WSL) & your org with Teams. Over time, they have been pushing for tighter & tighter integrations, & we can assume eventually they will see no need to afford any interop & more proprietary extensions will be added. This is what happens under capitalism and publicly traded companies are legally obligated to make profits for the shareholders & have no allegience to helping the users if it does not help profit.
 • GitHub is closed source. While Git is open & many of the projects on GitHub are, GitHub is not. If you have a problem, you can’t just send up a fix nor can you fork & self-host the project. Putting your business’s data on it assures no protections.
 • The API of GitHub is `not very stable <https://github.com/MichaelMure/git-bug/issues/749#issuecomment-1072991272>`_. So while you can tool your way around simple things like email, it is not as simple with GitHub.
@@ -47,7 +47,10 @@ What can I as a user do today?
 Then why are you even here?
 ---------------------------
 
-I back open source ethos & its projects with a lot them are here haplessly. I care more about that ethos than my self-held stance on where the code is hosted, but we need to get more code off this platform. You can’t have any migration conversations without contributing to projects in good faith. To a lot of folks GitHub is seen as a default & alternatives were never considered.
+I back free software & similar ethos where a lot of its projects being here without much thought.
+I care more about that ethos than my self-held stance on where the code is hosted, but we need to get more code off this platform.
+You can’t have any migration conversations without contributing to projects in good faith.
+To a lot of folks GitHub is seen as a default & alternatives were never considered.
 
 Also let’s glare at GitHub for stripping out ``<abbr>`` tags from rendered documents such as this even though these tags would help accessibility.
 
