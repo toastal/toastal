@@ -31,7 +31,7 @@ What can I as a user do today?
   	`Codeberg <https://codeberg.org/>`_
   		Forgejo hosted by a German non-profit
  	`cgit <https://git.zx2c4.com/cgit/about/>`_
-  		tiny, self-hosted :ac:`GPL` Git :ac:`UI`
+  		tiny, self-hosted GPL Git UI
  	`GitLab <https://gitlab.com/>`_
   		free, open-core, Ruby-based forge support with full build pipeline & self-hostable community edition (however are VC-funded & is publicly traded so they have investors to appease, so we’ll see about the future)
 • Try an alternative to Git
