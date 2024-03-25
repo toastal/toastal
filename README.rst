@@ -36,9 +36,11 @@ What can I as a user do today?
   		free, open-core, Ruby-based forge support with full build pipeline & self-hostable community edition (however are VC-funded & is publicly traded so they have investors to appease, so we’ll see about the future)
 • Try an alternative to Git
 
-  Some other :ac:`VCS` options
-     `darcs <http://darcs.net>`_
+  Some other VCS options
+     `Darcs <http://darcs.net>`_
          “Darcs is a free and open source, cross-platform version control system, […] with a very different approach: focus on changes rather than snapshots. Darcs offers a freer way of working, and a simpler user interface.” Ever thought it was weird that the order of patches matters in Git when the output is the same?
+      `Pijul <https://pijul.org>`_
+         “Pijul is a free and open source (GPL2) distributed version control system. Its distinctive feature is to be based on a theory of patches, while still being fast and scalable. This makes it easy to learn and use, without any compromise on power or features.” 
 • Ask your code communities & workplace to switch to an alternative code forge or officially back a mirror on an alternative. If that cannot be done, ask your code communities & workplace to at least allow additions to its larger ecosystem from these alternatives (plugins, packages, etc.) as well as posting a public mailing address to email code patches.
 • Oppose all attempts to standardize, endorse, or weigh anything in MS GitHub’s specific favor (like shorthands for packages)
 • Make sure educational institutions aren’t requiring students to sign up for proprietary accounts. It’s bad enough that the next generation continues to be trained in Adobe Suite & Microsoft Office instead of FLOSS / ethical options, but now Git & other VCSs are in the same boat where fundamentals can be learned that don’t require a proprietary service (and universites in particular have the resources to self-host at least cgit). If you are doing a workshop, bootcamp, or other smaller beginner-related activity, this rule should still apply. (German school are `looking into it <https://codeberg.org/forgejo/sustainability/issues/28>`_!)
