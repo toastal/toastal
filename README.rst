@@ -23,11 +23,11 @@ What can I as a user do today?
 
   Git-supporting Code Forge Alternatives
   	`SourceHut <https://sr.ht/>`_
-  		self-hostable AGPL service where using their hosted basics are free (including mailing lists & an IRC bouncer), but CI is paid, however it is not :ac:`VC`\-funded nor does it have investors or shareholders to appease
+  		self-hostable AGPL service where using their hosted basics are free (including mailing lists & an IRC bouncer), but CI is paid, however it is not VC-funded nor does it have investors or shareholders to appease
   	`GNU Savannah <https://savannah.gnu.org/>`_
-  		for :ac:`FLOSS` software where your projects need to be approved as such
+  		for FLOSS software where your projects need to be approved as such
  	`Forgejo <https://forgejo.org/>`_
-  		self-hosted, :ac:`FLOSS` GitHub clone essentially
+  		self-hosted, FLOSS GitHub clone essentially
   	`Codeberg <https://codeberg.org/>`_
   		Forgejo hosted by a German non-profit
  	`cgit <https://git.zx2c4.com/cgit/about/>`_
